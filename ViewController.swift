@@ -2,6 +2,12 @@
 import UIKit
 
 class Main: UIViewController {
+    
+    
+    @IBOutlet weak var wheelie: WheelView!
+    
+    
+    
     func methodToCall() {
         print("METHOD CALLED")
     }
