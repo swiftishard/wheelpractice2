@@ -1,8 +1,10 @@
 
 import UIKit
 
-class ViewController: UIViewController {
-    @IBOutlet weak var textField1: UITextField!
+class Main: UIViewController {
+    func methodToCall() {
+        print("METHOD CALLED")
+    }
     
     override func viewDidLoad() {
         super.viewDidLoad()
