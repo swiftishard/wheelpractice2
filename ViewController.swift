@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  wheelpractice2
-//
-//  Created by thepatriot on 1/16/19.
-//  Copyright © 2019 Large Ventures LLC. All rights reserved.
-//
 
 import UIKit
 
